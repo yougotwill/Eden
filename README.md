@@ -1,4 +1,4 @@
-# Eden's Oddysee
+# Eden's Odyssey
 
 ## Contributors:
 Yusri Dollie
